@@ -92,11 +92,6 @@ stress -c 2 --timeout 60    # Spikes CPU usage to breach 75% threshold
 chmod +x delete_resources_gcs.sh
 ./delete_resources_gcs.sh
 ```
-
----
-## Video Demo 🎥
-- **https://drive.google.com/file/d/1at4HfB215ify9o7pyahdEICdQ6etDeXF/view?usp=sharing**
-
 ---
 ## 📚 References
 - [GCP SDK](https://cloud.google.com/sdk?hl=en)
@@ -108,7 +103,4 @@ chmod +x delete_resources_gcs.sh
 ---
 
 ## 👥 Authors
-- Ankit Kumar Chauhan (m23csa509@iitj.ac.in)
-
----
-🚀 **Happy Cloud Computing!**
+- Shubham Sharma (M25AI2024@iitj.ac.in)
