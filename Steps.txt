@@ -1,0 +1,6 @@
+1. Download and install Virtual Box
+2. Create a VM with lubuntu as OS
+3. Run the autosclaing script
+4. Put stress on CPU to trigger autoscaling
+5. Check the autoscaling working
+6. Delete all resources at GCP
